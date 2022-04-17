@@ -1,4 +1,3 @@
-import React from "react";
 import "./sidebar.scss";
 import DashboardIcon from "@mui/icons-material/Dashboard";
 import Users from "@mui/icons-material/PersonOutline";
